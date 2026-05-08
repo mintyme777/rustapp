@@ -1,0 +1,2 @@
+# rustapp
+rustapp
